@@ -1,7 +1,7 @@
 # JioSaavn API
 
-![GitHub License](https://img.shields.io/github/license/sumitkolhe/jiosaavn-api)
-![GitHub Release](https://img.shields.io/github/v/release/sumitkolhe/jiosaavn-api)
+![GitHub License](https://img.shields.io/github/license/kundanhere/jiosaavn-api)
+![GitHub Release](https://img.shields.io/github/v/release/kundanhere/jiosaavn-api)
 
 An Unofficial API for downloading high-quality songs, albums, playlists, and more from [JioSaavn](https://jiosaavn.com).
 
@@ -21,7 +21,7 @@ For a detailed list of changes, see the [CHANGELOG](CHANGELOG.md).
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/sumitkolhe/jiosaavn-api
+   git clone https://github.com/kundanhere/jiosaavn-api
    cd jiosaavn-api
    ```
 
@@ -41,7 +41,7 @@ For a detailed list of changes, see the [CHANGELOG](CHANGELOG.md).
 
 You can easily deploy your own instance of the API by clicking the button below:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sumitkolhe/jiosaavn-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kundanhere/jiosaavn-api)
 
 > [!TIP]
 > To ensure the API provides results in the intended language, configure the [Serverless Function Region](https://vercel.com/docs/concepts/functions/serverless-functions/regions) in Vercel to `Mumbai, India (South) - > bom1`.
